@@ -1,2 +1,2 @@
-# Cesar-Ciper-with-Turkish-Char.
-cesar cipher encryption and decryption app
+# Caesar-Cipher-with-Turkish-Char.
+Caesar cipher encryption and decryption app
